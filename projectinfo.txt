@@ -1,0 +1,5 @@
+{ " name " : ' Phoenix Cantact SoftWare'[PCS]
+  " version " : '1.3'
+  " author " : ' Phoenix '
+  " author_email " : ' pxgithubproject@gmail.com '
+}

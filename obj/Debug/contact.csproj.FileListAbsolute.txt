@@ -1,0 +1,10 @@
+G:\projectc#\contact\contact\bin\Debug\contact.exe.config
+G:\projectc#\contact\contact\bin\Debug\contact.exe
+G:\projectc#\contact\contact\bin\Debug\contact.pdb
+G:\projectc#\contact\contact\obj\Debug\contact.csprojResolveAssemblyReference.cache
+G:\projectc#\contact\contact\obj\Debug\contact.Form1.resources
+G:\projectc#\contact\contact\obj\Debug\contact.Properties.Resources.resources
+G:\projectc#\contact\contact\obj\Debug\contact.csproj.GenerateResource.Cache
+G:\projectc#\contact\contact\obj\Debug\contact.exe
+G:\projectc#\contact\contact\obj\Debug\contact.pdb
+G:\projectc#\contact\contact\obj\Debug\contact.FRMAddOrEdite.resources
